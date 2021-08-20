@@ -1,0 +1,32 @@
+.pagna{
+background-color: aqua;
+}
+#a{
+    border: dotted 10px rgba(16, 143, 143, 0.925); 
+    margin: 58px;
+    padding: 10px;  
+}
+
+#b{
+    border: dashed 6px rgb(180, 23, 228);  
+    margin: 58px;
+    padding: 22px; 
+}
+
+#c{
+    border: groove 8px rgb(12, 189, 21);
+    margin: 58px;
+    padding: 15px;
+}
+
+#d{
+    border: double 7px rgb(221, 113, 11);
+    margin: 58px;
+    padding: 11px;
+}
+
+#e{
+    border: ridge 3px rgb(219, 9, 9);
+    margin: 58px;
+    padding: 25px;
+}
